@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [NTT DATA](https://br.nttdata.com)
 - 🌱 I’m currently learning [React](https://pt-br.reactjs.org) with [Typescript](https://www.typescriptlang.org)
-- 📫 How to reach me: santosdoscorreiareinaldo@gmail.com
+- 📫 How to reach me: contato@reinaldodev.com.br
 
  <div>
   <a href="https://github.com/ReinaldoCS">
