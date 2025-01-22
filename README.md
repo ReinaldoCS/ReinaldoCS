@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm Reinaldo Correia</h1>
 
-- 🔭 I’m currently working on [NTT DATA](https://br.nttdata.com)
+- 🔭 I’m currently working on [GAIA](https://www.gaia.dev/)
 - 🌱 I’m currently learning [React](https://pt-br.reactjs.org) with [Typescript](https://www.typescriptlang.org)
 - 📫 How to reach me: contato@reinaldodev.com.br
 
